@@ -1,0 +1,1 @@
+This project consists a website with recipes.
